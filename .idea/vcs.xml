@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/GNNstudy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pytorch_geometric" vcs="Git" />
   </component>
 </project>
