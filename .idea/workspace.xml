@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5e144e5-2ea9-460d-aa3b-db36301515b9" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/graph003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b5e144e5-2ea9-460d-aa3b-db36301515b9" name="默认" comment="null">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,13 +92,25 @@
       <option name="presentableId" value="Default" />
       <updated>1631434822096</updated>
     </task>
+    <task id="LOCAL-00001" summary="null">
+      <created>1631458509888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631458509888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="null" />
+    <option name="LAST_COMMIT_MESSAGE" value="null" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1029" y="44" key="CommitChangelistDialog2" timestamp="1631452374932">
+    <state x="1029" y="44" key="CommitChangelistDialog2" timestamp="1631458540538">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1029" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631452374932" />
+    <state x="1029" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631458540538" />
     <state width="931" height="305" key="GridCell.Tab.0.bottom" timestamp="1631453021185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -121,5 +131,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="337" y="77" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631450869728" />
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1631458917185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631458917185" />
+    <state x="1255" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1631458528492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1255" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1631458528492" />
+    <state x="598" y="266" key="git4idea.merge.GitPullDialog" timestamp="1631458908796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="266" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1631458908796" />
   </component>
 </project>
