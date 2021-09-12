@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e144e5-2ea9-460d-aa3b-db36301515b9" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graph002.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph001.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.graph002">
+    <configuration name="graph002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/graph002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="graph_x" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -57,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.graph002" />
         <item itemvalue="Python.graph_x" />
       </list>
     </recent_temporary>
@@ -75,22 +97,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1894" height="303" key="GridCell.Tab.0.bottom" timestamp="1631450892488">
+    <state x="1029" y="44" key="CommitChangelistDialog2" timestamp="1631452374932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631450892488" />
-    <state width="1894" height="303" key="GridCell.Tab.0.center" timestamp="1631450892488">
+    <state x="1029" y="44" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1631452374932" />
+    <state width="931" height="305" key="GridCell.Tab.0.bottom" timestamp="1631453021185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631450892488" />
-    <state width="1894" height="303" key="GridCell.Tab.0.left" timestamp="1631450892488">
+    <state width="931" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1631453021185" />
+    <state width="931" height="305" key="GridCell.Tab.0.center" timestamp="1631453021185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631450892488" />
-    <state width="1894" height="303" key="GridCell.Tab.0.right" timestamp="1631450892488">
+    <state width="931" height="305" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1631453021185" />
+    <state width="931" height="305" key="GridCell.Tab.0.left" timestamp="1631453021184">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1894" height="303" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631450892488" />
+    <state width="931" height="305" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1631453021184" />
+    <state width="931" height="305" key="GridCell.Tab.0.right" timestamp="1631453021185">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="931" height="305" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1631453021185" />
     <state x="337" y="77" key="SettingsEditor" timestamp="1631450869728">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
